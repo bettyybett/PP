@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545089024 source:c:\users\betty\desktop\lucrat\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

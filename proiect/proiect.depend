@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546630906 source:f:\informatica\pp\proiect\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
